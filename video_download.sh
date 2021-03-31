@@ -1,4 +1,4 @@
-VIDEO_SAVE_PATH='/your/path'
+VIDEO_SAVE_PATH='/your/path/to/save/video/'
 
 TARGET_PATH='/your/path/to/VSPW/folder'
 
