@@ -22,7 +22,7 @@ Edit `video_download.sh`, change *VIDEO_SAVE_PATH* to *'/your/path/to/save/video
 
 
 
-**Notice**:  Our ground truth mask contains values from 0 to 124 and 255.  0 indicates "others" and 255 indicates "void label". During evaluation, both 0 and 255 are void class.  Thus we recommend using the following code:
+**Notice**:  Our ground truth mask contains values from 0 to 124 and 255.  0 indicates "others" and 255 indicates "void label". During evaluation, both 0 and 255 are void classes.  Thus we recommend using the following code:
 
 ```
 label[label==0]=255
