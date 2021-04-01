@@ -2,7 +2,10 @@
 
 
 ## Download Ground Truth Masks
-Download ground truth masks using [Google Drive]() or [Baidu YunPan](). Decompress it to *'/your/path/to/VSPW/folder/'*.
+Download ground truth masks using [Google Drive](https://drive.google.com/file/d/1YnZvjYQyfWCpqTbyD5-MgfGZF3q_RK_6/view?usp=sharing) or [Baidu YunPan](https://pan.baidu.com/s/1K3SfFPpJ80GI-Lb5wDMLPg) (提取密码: tozq). Decompress it to *'/your/path/to/VSPW/folder/'*.
+
+
+
 
 ## Download and Extract Video Frames
 
