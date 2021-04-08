@@ -1,6 +1,9 @@
 # VSPW-dataset-download
 
 
+## We thank @sssdddwww2 who collected and extracted all frames. Please refer to her/his [page](https://github.com/sssdddwww2/vspw_dataset_download) to download the entire VSPW dataset.
+
+
 ## Download Ground Truth Masks
 Download ground truth masks using [Google Drive](https://drive.google.com/file/d/1YnZvjYQyfWCpqTbyD5-MgfGZF3q_RK_6/view?usp=sharing) or [Baidu YunPan](https://pan.baidu.com/s/1K3SfFPpJ80GI-Lb5wDMLPg) (提取密码: tozq). Decompress it to *'/your/path/to/VSPW/folder/'*.
 
