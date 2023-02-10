@@ -23,7 +23,8 @@ VSPW 480P download links:
 
 Google Drive: https://drive.google.com/file/d/1rRujAmy3mzYqI0NjrdyVANDfrnFnBEp1/view?usp=sharing
 
-Baidu YunPan: 链接:https://pan.baidu.com/s/1p3HNj6_-DtnTt-aHAsSVlA 密码:akga```
+Baidu YunPan: 链接:https://pan.baidu.com/s/1p3HNj6_-DtnTt-aHAsSVlA 密码:akga
+```
 
 ### Update: Some images from "988_f_Xvy_DCPt8" are damaged or incomplete with 0 byte. The images are avaiable here:
 
