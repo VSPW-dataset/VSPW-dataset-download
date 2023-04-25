@@ -52,7 +52,7 @@ label[label==254]=255
 
 ```
 
-##Download and Extract Video Frames
+## Download and Extract Original Video Frames
 
 Edit video_download.sh, change VIDEO_SAVE_PATH to '/your/path/to/save/video' and change TARGET_PATH to '/your/path/to/VSPW/folder'.
 
